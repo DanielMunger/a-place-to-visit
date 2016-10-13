@@ -1,0 +1,30 @@
+h2{
+  text-align: center;
+}
+.basic {
+  display: inline-block;
+  text-align: center;
+  font-family: cursive;
+  font-weight: bolder;
+}
+.silver{
+  display: inline-block;
+  text-align: center;
+  font-family: cursive;
+  font-weight: bolder;
+
+}
+.gold{
+  display: inline-block;
+  text-align: center;
+  font-family: cursive;
+  font-weight: bolder;
+
+}
+.platinum{
+  display: inline-block;
+  text-align: center;
+  font-family: cursive;
+  font-weight: bolder;
+
+}
